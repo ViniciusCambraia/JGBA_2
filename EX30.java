@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Ex_30 {
+public class EX30 {
 	
 	static Scanner entrada;
 
